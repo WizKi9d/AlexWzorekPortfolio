@@ -63,8 +63,9 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    /* background-color: #f6eeea; */
 }
 .footer {
   position: absolute;
@@ -280,4 +281,7 @@ my-.nav-link.active, .my-nav-link {
         color: #5ab381;
     }
 
+.px-7 {
+    padding-left: 4rem !important;
+    padding-right: 4rem !important;
 }

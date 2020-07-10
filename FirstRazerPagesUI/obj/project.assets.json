@@ -7941,11 +7941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smgalexwzorek\\Desktop\\Personal Apps\\FirstRazerPagesApp\\FirstRazerPagesUI\\FirstRazerPagesUI.csproj",
+      "projectUniqueName": "C:\\Users\\smgalexwzorek\\Desktop\\Github reps\\AlexWzorekPortfolio\\FirstRazerPagesUI\\FirstRazerPagesUI.csproj",
       "projectName": "FirstRazerPagesUI",
-      "projectPath": "C:\\Users\\smgalexwzorek\\Desktop\\Personal Apps\\FirstRazerPagesApp\\FirstRazerPagesUI\\FirstRazerPagesUI.csproj",
+      "projectPath": "C:\\Users\\smgalexwzorek\\Desktop\\Github reps\\AlexWzorekPortfolio\\FirstRazerPagesUI\\FirstRazerPagesUI.csproj",
       "packagesPath": "C:\\Users\\smgalexwzorek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smgalexwzorek\\Desktop\\Personal Apps\\FirstRazerPagesApp\\FirstRazerPagesUI\\obj\\",
+      "outputPath": "C:\\Users\\smgalexwzorek\\Desktop\\Github reps\\AlexWzorekPortfolio\\FirstRazerPagesUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
