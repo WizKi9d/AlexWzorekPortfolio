@@ -1,0 +1,38 @@
+﻿@page
+@model FirstRazerPagesUI.Pages.ContactDisplayModel
+@{
+    ViewData["Title"] = "ContactDisplay";
+}
+    <div class="container">
+        
+    </div>
+    <div class="mt-4 container">
+        <div class="list-group">
+            @{
+                @for (int i = 0; i < Model.getAllItems.Count(); i++)
+                {
+                    /*
+                        <div class="mx-5 alert alert-success" role="alert">
+                            <div class="justify-content-between d-flex">
+                                <h4 class="alert-heading">Name: @Model.getAllItems[i].FirstName @Model.getAllItems[i].LastName</h4>
+                                <small>@Model.getAllItems[i].Date</small>
+                            </div>
+                            <p class="pt-3 pb-2">Message: @Model.getAllItems[i].Message</p>
+                            <hr>
+                            <p class="mb-0">Email: @Model.getAllItems[i].Email</p>
+                        </div>
+                        */
+
+                    <div class="list-group-item list-group-item-action alert-primary">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">@Model.getAllItems[i].FirstName @Model.getAllItems[i].LastName</h5>
+                            <small class="text-muted">@Model.getAllItems[i].Date</small>
+                        </div>
+                        <p class="mb-1">@Model.getAllItems[i].Message</p>
+                        <small class="text-muted">Email: @Model.getAllItems[i].Email</small>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+

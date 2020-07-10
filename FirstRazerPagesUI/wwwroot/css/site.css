@@ -1,0 +1,283 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+.main {
+    overflow-x: hidden;
+}
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #6c757d;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+.custom-title-color {
+    color: coral;
+}
+
+.drop-lower {
+    margin-top: 4%;
+}
+
+.spacer {
+    margin: 5%;
+}
+
+.spacer-1 {
+    margin: 1%;
+}
+
+.spacer-2 {
+    margin: 2%;
+}
+
+.spacer-3 {
+    margin: 3%;
+}
+
+
+.vogue-font {
+    font-family: 'GFS Didot', serif;
+}
+
+.hover-darken:hover a {
+    transition: color 200ms;
+    transition-timing-function: linear;
+    color: rgb(216, 216, 216);
+}
+
+.plpr-form {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.mlmr-form {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-2 {
+    width: 100%;
+    /*padding-right: 15px;
+    padding-left: 15px;*/
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 576px) {
+    .container-2 {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container-2 {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container-2 {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container-2 {
+        max-width: 1140px;
+    }
+}
+
+@media (mind-width: 1500px) {
+    .container-2 {
+        max-width: 1400px;
+    }
+}
+
+@media (min-width: 1850px) {
+    .container-2 {
+        max-width: 1500px;
+    }
+}
+
+.pl-6 {
+    padding-left: 6rem !important;
+}
+
+.pr-6 {
+    padding-right: 6rem !important;
+}
+
+.hover-link:hover {
+    color: #3060c4;
+}
+
+
+.my-navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.my-nav-item {
+    color:black;
+    border: none;
+}
+.my-nav-item:hover {
+    color: aqua;
+}
+
+.my-nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+.my-nav-link:hover, .my.nav-link:focus {
+    text-decoration: none;
+    color: #1b6ec2;
+}
+
+.my-nav-item {
+    margin-bottom: -1px;
+}
+
+.my-nav-link {
+    border: hidden;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.my-nav-link.disabled {
+    color: #6c757d;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+my-.nav-link.active, .my-nav-link {
+    color: #6c757d;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.my-nav-link {
+    border-radius: 0.25rem;
+}
+
+.my-nav-link.active {
+    color: #fff;
+    background-color: #007bff;
+}
+
+.class-container:hover a {
+    transition: color 200ms;
+    transition-timing-function: linear;
+    color: rgb(216, 216, 216);
+}
+
+.my-navbar-nav li a:hover {
+    color: #5ab381;
+}
+
+.my-list-group-item {
+    position: relative;
+    display: block;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    padding-left: 0;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: none;
+}
+
+@media (max-width: 700px) {
+    .h3 {
+        font-size: 1rem;
+    }
+}
+
+.my-btn {
+    border-radius: 0;
+    background-color: #a3dd9e;
+    color: white;
+}
+
+    .my-btn:hover {
+        transition: 200ms;
+        transition-timing-function: linear;
+        color: #5ab381;
+    }
+
+}
