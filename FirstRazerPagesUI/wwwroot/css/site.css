@@ -281,7 +281,24 @@ my-.nav-link.active, .my-nav-link {
         color: #5ab381;
     }
 
+
+
+.pl-7,
 .px-7 {
     padding-left: 4rem !important;
+}
+
+.pr-7,
+.px-7 {
     padding-right: 4rem !important;
+}
+
+.pl-8,
+.px-8 {
+    padding-left: 5rem !important;
+}
+
+.pr-8,
+.px-8 {
+    padding-right: 5rem !important;
 }
