@@ -378,7 +378,6 @@ C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\FirstRazerPagesUI.RazorCoreGenerate.cache
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\AdminLogin.cshtml.g.cs
-C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\ContactDisplay.cshtml.g.cs
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\FilmPhotos.cshtml.g.cs
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
@@ -392,3 +391,4 @@ C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\FirstRazerPagesUI.csproj.CopyComplete
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\FirstRazerPagesUI.dll
 C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\FirstRazerPagesUI.pdb
+C:\Users\smgalexwzorek\Desktop\Github reps\AlexWzorekPortfolio\FirstRazerPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\ContactDisplay.cshtml.g.cs

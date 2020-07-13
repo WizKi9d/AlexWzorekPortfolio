@@ -16,6 +16,15 @@ a {
   color: #6c757d;
 }
 
+.title-hover {
+    color: black;
+}
+
+.title-hover:hover {
+    text-decoration: none;
+    color: black;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
